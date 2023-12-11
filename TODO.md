@@ -1,5 +1,4 @@
-- read and edit post
 - make navbar sticky and then shrink on scroll and add some transparency on bg
-- add more code blocks if necessary
 - add syntax highlighting to code blocks (and copy button)
+  - use MDX and Shiki for syntax highlighting
 - push up and deploy

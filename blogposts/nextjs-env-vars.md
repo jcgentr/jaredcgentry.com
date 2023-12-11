@@ -80,7 +80,7 @@ You can test the solution by running `npm run build`, changing env vars in the `
 
 For the client-side issue, there are a couple of potential solutions. You could return the env vars you need using an API route, but I found this cubersome. I desired the solution with the least impact. I settled on adding a JavaScript file to the public folder (e.g. `/public/config.js`).
 
-#### config.js
+#### public/config.js
 
 ```js
 window.CLIENT_SIDE_ENV_VAR_1 = "text_1";
@@ -89,6 +89,8 @@ window.CLIENT_SIDE_ENV_VAR_3 = "text_3";
 ```
 
 This script assigned our client-side env vars to the global window object. To load this script on every page of the frontend, NextJS recommends using there [Script component](https://nextjs.org/docs/app/api-reference/components/script#beforeinteractive) in the RootLayout component (e.g. `/app/layout.tsx`). However, I ran into a hydration issue when trying to use the strategy="beforeInteractive" property, so I settled on adding a plain script tag to a plain HTML head tag in the root layout as suggested in [this github issue](https://github.com/vercel/next.js/issues/49830).
+
+#### app/layout.tsx
 
 ```ts
 import type { Metadata } from "next";

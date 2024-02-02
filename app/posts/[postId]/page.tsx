@@ -36,13 +36,16 @@ export default async function Post({ params }: { params: { postId: string } }) {
     return notFound();
   }
 
-  const { title, date, contentHtml } = await getPostData(postId);
+  const { title, date, steps, contentHtml } = await getPostData(postId);
   const pubDate = getFormattedDate(date);
 
   return (
     <main className="mt-10 px-6 prose prose-xl prose-slate dark:prose-invert mx-auto">
       <h1 className="text-3xl mt-4 mb-0">{title}</h1>
-      <p className="mt-0">{pubDate}</p>
+      <div className="flex justify-between">
+        <p>{pubDate}</p>
+        {steps && <p>{steps} steps</p>}
+      </div>
       <article>
         <section dangerouslySetInnerHTML={{ __html: contentHtml }} />
         <p>

@@ -1,7 +1,7 @@
 ---
 title: "Bangkok, Thailand: Day 2"
 date: "2024-02-01"
-steps: 13138
+steps: 13,138
 mood: "tired, relaxed, sweaty"
 ---
 

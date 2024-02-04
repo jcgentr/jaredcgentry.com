@@ -46,9 +46,9 @@ export default async function Post({ params }: { params: { postId: string } }) {
         <p>{pubDate}</p>
         {steps && <p>{steps} steps</p>}
       </div>
-      <article>
+      <article className="pb-10">
         <section dangerouslySetInnerHTML={{ __html: contentHtml }} />
-        <p>
+        <p className="my-10">
           <Link href="/">← Back to home</Link>
         </p>
       </article>

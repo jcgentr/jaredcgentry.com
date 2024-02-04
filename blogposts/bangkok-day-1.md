@@ -17,7 +17,7 @@ Following my lunch and nap and brief bit of exercise, I was happy to find the sa
 
 There's also an open-air pool on the 9th floor acting as an oasis from the chaos down below. For dinner I explored the local area hoping to find a good street vendor with authentic Thai, but after 30 minutes of searching I decided to instead settle on a more upscale restaurant. I'm glad I did because I had what may be one of the best desserts of my life: their mango sticky rice. The rice was sweet with a bit of saltiness and crunch, while the mango was fresh and juicy and the ice cream added a nice cold, creaminess to each bite. All in all I enjoyed my first day here in Bangkok. I'm looking forward to what ever else it has in store for me.
 
-## Other notes:
+### Other notes:
 
 ![7-11 toasty](/images/toasty.png)
 

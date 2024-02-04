@@ -19,7 +19,7 @@ It was nice and hot with a sweet, tangy coat of sauce. And to finish the night I
 
 ![Bangkok street at night](/images/hustle.jpeg)
 
-Other notes:
+### Other notes:
 
 Seems like public restrooms are rare except in shopping malls where you have to pay a small fee and in western style hotels. Not good for my sensitive tummy.
 

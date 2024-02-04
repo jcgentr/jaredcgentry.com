@@ -27,6 +27,6 @@ To finish off the night, I found a food court in the nearby shopping mall with p
 
 ![Krispy Kreme](/images/kk.jpeg)
 
-## Other notes:
+### Other notes:
 
 TIL the hose next to the toilet is a hand-held or poor man's bidet. It works better in my opinion since you move the hose and don't have to shift your booty hole into the right position for the normal bidet.

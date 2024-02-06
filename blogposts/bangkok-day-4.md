@@ -1,7 +1,7 @@
 ---
 title: "Bangkok, Thailand: Day 4"
 date: "2024-02-03"
-steps: 10,003
+steps: 16,082
 mood: "chill yet restless at times"
 ---
 

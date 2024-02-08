@@ -32,3 +32,5 @@ Food courts here seem to close 1 hour before the advertised closing time of 10pm
 I think I'm addicted to cow piss.
 
 ![Cow piss drink](/images/cow-piss.jpeg)
+
+Make sure the change you receive is correct. I lost 500 Baht (~$14) after buying a 40 Baht train ticket with a 1000 Baht bill.

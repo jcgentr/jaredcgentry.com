@@ -22,3 +22,7 @@ The vibe of Siem Reap is completely different than Bangkok. Siem Reap is a quiet
 ![Pub Street](/images/pubstreet.jpeg)
 
 In the evening, I ventured down to the Night Market and Pub Street. There is a nice little nightlife here. Tomorrow, going to plan a tour to the main attraction here, Angkor Wat.
+
+Other notes:
+
+Once again, cash is king. Although Cambodia has the Riel, USD is accepted in place of their monopoly money. About 4000 riel equals $1. So 1000 riel is a quarter.

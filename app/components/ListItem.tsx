@@ -18,7 +18,7 @@ export default function ListItem({ post }: Props) {
         {title}
       </Link>
       <br />
-      <p className="text-sm mt-1 text-slate-300">{formattedDate}</p>
+      <p className="text-sm mt-1 opacity-80">{formattedDate}</p>
     </li>
   );
 }

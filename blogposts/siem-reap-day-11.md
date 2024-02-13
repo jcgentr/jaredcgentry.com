@@ -11,7 +11,7 @@ Without a tour planned, I decided to just explore the local area of Siem Reap. I
 
 Feeling a bit weak, I found a decent gym nearby. It had everything I needed to do a powerlifting-style workout, and wasn't crowded at all. The day pass cost $5, which was well worth it. It even had a blazing hot sauna upstairs that was running at 94 C or about 201 F. There was also a soft padded zone that allowed me to practice my free-standing handstand pushups.
 
-![Angkok fitness](/images/angkor-fitness.jpeg)
+![Angkor fitness](/images/angkor-fitness.jpeg)
 
 In the early afternoon, I diagnosed myself with Traveler's Diarrhea and took 500 mg of Azithromycin after I'd had enough of the trips to the toilet, even with taking Imodium. By the evening, about 4 hours later, I was already feeling much better. With a more stable tummy, I decided to take my first tuk tuk ride to a highly-rated restaurant here in Siem Reap called Haven. The mission at Haven is to help disadvantaged young adults escape poor living conditions by teaching them important life skills free of charge. At the end of the 16-month program, Haven helps these young adults find meaningful employment. It's the "teach a man to fish" philosophy. Aside from the noble mission, the food here was excellent. My dinner was one of the best I've had in my 11 days in Southeast Asia. I started off with a lightly fried calamari with a mayonnaise dipping sauce.
 

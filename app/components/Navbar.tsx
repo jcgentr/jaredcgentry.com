@@ -13,9 +13,15 @@ export default function Navbar() {
             Jared C Gentry
           </Link>
         </h1>
-        <div className="flex flex-row justify-center sm:justify-evenly align-middle gap-4 text-white text-4xl lg:text-5xl">
+        <div className="flex flex-row justify-center items-center sm:justify-evenly gap-4 text-white">
           <Link
-            className="text-white/90 hover:text-white"
+            className="text-white/90 hover:text-white no-underline hover:underline underline-offset-8"
+            href="/life-calendar"
+          >
+            Life Calendar
+          </Link>
+          <Link
+            className="text-white/90 hover:text-white text-4xl lg:text-5xl"
             href="https://github.com/jcgentr"
           >
             <FaGithub />

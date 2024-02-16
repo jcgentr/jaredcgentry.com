@@ -1,7 +1,7 @@
 ---
 title: "Phnom Penh, Cambodia: Day 15"
 date: "2024-02-14"
-steps: 12,772
+steps: 14,723
 mood: "timid, loveless"
 ---
 

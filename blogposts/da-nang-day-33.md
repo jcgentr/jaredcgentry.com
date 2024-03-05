@@ -1,7 +1,7 @@
 ---
 title: "Da Nang, Vietnam: Day 33"
 date: "2024-03-03"
-steps: 8,219
+steps: 9,015
 mood: "heartburn"
 ---
 

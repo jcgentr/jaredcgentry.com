@@ -7,6 +7,7 @@ interface RowsCols {
   cols: number;
   gridClassName: string;
   squareClassName: string;
+  description: string;
 }
 
 interface TimeUnitMapping {
@@ -20,19 +21,22 @@ const timeUnitMapping: TimeUnitMapping = {
     rows: 9, // 9 decades = if you live to 90
     cols: 10, // 10 years = 1 decade
     gridClassName: "grid-cols-10",
-    squareClassName: "w-10 h-10",
+    squareClassName: "w-8 h-8 sm:w-10 sm:h-10",
+    description: "9 rows of decades",
   },
   months: {
     rows: 30, // 3 years * 30 = 90
     cols: 36, // 36 months = 3 years
     gridClassName: "grid-cols-36",
-    squareClassName: "w-1 h-1 sm:w-4 sm:h-4",
+    squareClassName: "w-2 h-2 sm:w-4 sm:h-4",
+    description: "30 rows of 36 months or 3 years",
   },
   weeks: {
     rows: 90, // 90 years
     cols: 52, // 52 weeks per year
     gridClassName: "grid-cols-52",
     squareClassName: "w-1 h-1 sm:w-3 sm:h-3",
+    description: "90 rows of 52 weeks or 1 year",
   },
 };
 
@@ -146,24 +150,30 @@ export default function LifeCalendarPage() {
         >
           this article
         </a>
-        .
+        . Assumes I live to 90 years old.
       </p>
       <h2 className="my-10 text-3xl">{ageString}</h2>
 
-      <select
-        value={timeUnit}
-        onChange={(e) =>
-          setTimeUnit(e.target.value as "years" | "months" | "weeks")
-        }
-        className="p-2 border border-gray-300 rounded-md text-slate-800 cursor-pointer"
-      >
-        <option value="years">Years</option>
-        <option value="months">Months</option>
-        <option value="weeks">Weeks</option>
-      </select>
+      <div>
+        <div className="flex items-center gap-2">
+          <span>My life in</span>
+          <select
+            value={timeUnit}
+            onChange={(e) =>
+              setTimeUnit(e.target.value as "years" | "months" | "weeks")
+            }
+            className="p-2 border border-gray-300 rounded-md text-slate-800 cursor-pointer"
+          >
+            <option value="years">Years</option>
+            <option value="months">Months</option>
+            <option value="weeks">Weeks</option>
+          </select>
+        </div>
+        <p className="mt-4">{timeUnitMapping[timeUnit].description}</p>
+      </div>
 
       <div
-        className={`grid max-w-fit ${timeUnitMapping[timeUnit].gridClassName} gap-1 gap-y-1 my-12`}
+        className={`grid max-w-fit ${timeUnitMapping[timeUnit].gridClassName} gap-1 gap-y-1 mt-6 mb-12 mx-auto`}
       >
         {Array.from({
           length:

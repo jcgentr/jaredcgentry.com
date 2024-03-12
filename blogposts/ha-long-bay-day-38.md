@@ -11,13 +11,13 @@ Today's weather wasn't the best for visiting Ha Long Bay. The sky was cloudy and
 
 ![Ha Long Bay Harbor](/images/ha-long-bay-harbor.jpeg)
 
-We had a nice, diverse seafood lunch. I ate squid, some kind of breaded fish, soursop fruit, some sort of chicken dish, shrimp, fried spring rolls, and white rice. Eating in the dining room while watching the massive limestone islands roll by was a pleasant experience.
+We had a nice, diverse seafood lunch. I ate squid, some kind of breaded fish, soursop fruit, some sort of chicken dish, shrimp, fried spring rolls, and white rice. Eating in the dining room while watching the massive limestone islands roll by was a pleasant experience. I pictured something similar to these islands when reading A Wizard of Earthsea by Ursula K. Le Guin.
 
 Our first excursion was hiking up Ti Top Island. The hike consisted of about 400 steps, but there was a line of tourists the whole way up. The view from the top was great, even on this overcast day. After coming down the mountain, I dipped my feet in the water at the edge of the beach. The water was briskly cold. I'm sure this beach gets slammed packed with tourists on sunny days.
 
 ![Ha Long Bay Ti Top](/images/ha-long-bay-titop.jpeg)
 
-The next excursion was a vist to Luon Cave. There was a choice of speed boat, bamboo boat, or kayak. I chose the kayak and paddled under the cave and in and around the cove for a good 20 minutes. I wish I had more time and room to kayak. Pictures can't capture that feeling of awe and grandeur you feel when viewing these limestone islands up close in person.
+The next excursion was a visit to Luon Cave. There was a choice of speed boat, bamboo boat, or kayak. I chose the kayak and paddled under the cave and in and around the cove for a good 20 minutes. I wish I had more time and room to kayak. Pictures can't capture that feeling of awe and grandeur you feel when viewing these limestone islands up close in person.
 
 ![Ha Long Bay Kayaking](/images/ha-long-bay-kayak.jpeg)
 

@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { FaGithub } from "react-icons/fa";
+import ThemeSwitcher from "./ThemeSwitcher";
 
 export default function Navbar() {
   return (
@@ -21,11 +22,14 @@ export default function Navbar() {
             Life Calendar
           </Link>
           <Link
-            className="text-white/90 hover:text-white text-4xl lg:text-5xl"
+            className="text-white text-2xl lg:text-3xl hover:opacity-70"
             href="https://github.com/jcgentr"
           >
             <FaGithub />
           </Link>
+          <button className="hover:opacity-70">
+            <ThemeSwitcher />
+          </button>
         </div>
       </div>
     </nav>

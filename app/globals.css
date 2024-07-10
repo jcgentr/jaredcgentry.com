@@ -68,3 +68,40 @@ h6 {
 #__next {
   isolation: isolate;
 }
+
+/* change highlight color */
+::selection {
+  background: #b57edc; /* Lavender purple background color of the selection */
+  color: #f8f8ff; /* Off white text color of the selection */
+}
+
+::-moz-selection {
+  background: #b57edc; /* Lavender purple background color for Firefox */
+  color: #f8f8ff; /* Off white text color for Firefox */
+}
+
+/* scrollbar */
+/* WebKit Browsers */
+::-webkit-scrollbar {
+  width: 12px;
+  height: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #e6e6fa; /* Lavender track */
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4b0082; /* Dark purple thumb */
+  border-radius: 6px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #b57edc; /* Darker lavender on hover */
+}
+
+/* Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #4b0082 #e6e6fa; /* Dark purple thumb and lavender track for Firefox */
+}

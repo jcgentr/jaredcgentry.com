@@ -162,7 +162,7 @@ export default function LifeCalendarPage() {
             onChange={(e) =>
               setTimeUnit(e.target.value as "years" | "months" | "weeks")
             }
-            className="p-2 border border-gray-300 rounded-md text-slate-800 cursor-pointer"
+            className="p-1 border border-gray-300 rounded-md cursor-pointer"
           >
             <option value="years">Years</option>
             <option value="months">Months</option>

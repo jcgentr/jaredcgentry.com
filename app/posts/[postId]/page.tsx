@@ -88,12 +88,12 @@ export default async function Post({ params }: { params: { postId: string } }) {
         </div>
         <div className="my-10">
           <Link
-            href="/"
+            href="/blog"
             className="flex justify-center items-center underline-offset-8 no-underline"
           >
-            <p className="ml-2 underline-offset-8 hover:underline">
-              🏠 Back to home
-            </p>
+            <span className="ml-2 underline-offset-8 hover:underline">
+              🏠 Back to blog
+            </span>
           </Link>
         </div>
       </footer>

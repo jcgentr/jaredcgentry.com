@@ -17,6 +17,24 @@ export default function Navbar() {
         <div className="flex flex-row justify-center items-center sm:justify-evenly gap-4 text-white">
           <Link
             className="text-white/90 hover:text-white no-underline hover:underline underline-offset-8"
+            href="/projects"
+          >
+            Projects
+          </Link>
+          <Link
+            className="text-white/90 hover:text-white no-underline hover:underline underline-offset-8"
+            href="/blog"
+          >
+            Blog
+          </Link>
+          <Link
+            className="text-white/90 hover:text-white no-underline hover:underline underline-offset-8"
+            href="/favorites"
+          >
+            Favorites
+          </Link>
+          <Link
+            className="text-white/90 hover:text-white no-underline hover:underline underline-offset-8"
             href="/life-calendar"
           >
             Life Calendar
